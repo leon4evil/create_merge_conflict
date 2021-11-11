@@ -1,2 +1,2 @@
 # create_merge_conflict
-My name is Johnnnnn
+My name is Alfredoooo
